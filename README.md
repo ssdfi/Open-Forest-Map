@@ -3,7 +3,7 @@ Sistema de trabajo colaborativo  para generar cartografía de Bosques a escala g
 
 El sistema Open Forest Map, es un sistema que permitirá a partir de la edición colaborativa, generar y actualizar cartografía correspondiente a los Bosques ( Nativos y Cultivados) a nivel global.
 
-Se podría emplear la tecnología y plataforma de edición del  OSM y ver de desarrollar aquellas funcionalidades (edición, medición, consulta/ selección por atributos acercamiento ( zoom) al atributo seleccionado que no estén presentes en el sistema.
+Se podría emplear la tecnología y plataforma de edición JOSM y  de desarrollar aquellas funcionalidades (edición, medición, consulta/ selección por atributos acercamiento ( zoom) al atributo seleccionado que no estén presentes en el sistema.
 
 Capacidad para importar archivos gpx, kml, geojson. Capacidad para desplegar servicios wms/ wfs.
 
